@@ -22,7 +22,7 @@
     "url": "https://prlazarus.es/",
     "icon": "https://icons.duckduckgo.com/ip3/prlazarus.es.ico",
     "slug": "pr-lazarus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 234,
     "timeMonth": 198,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "Project blip",
