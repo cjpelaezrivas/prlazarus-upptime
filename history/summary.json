@@ -22,19 +22,19 @@
     "url": "https://prlazarus.es/",
     "icon": "https://icons.duckduckgo.com/ip3/prlazarus.es.ico",
     "slug": "pr-lazarus",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 287,
-    "timeWeek": 234,
-    "timeMonth": 198,
+    "timeDay": 217,
+    "timeWeek": 223,
+    "timeMonth": 197,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 27
     }
   },
   {
