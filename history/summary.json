@@ -4,18 +4,20 @@
     "url": "https://cjpelaezrivas.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/cjpelaezrivas.dev.ico",
     "slug": "cjpelaezrivas-github-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 353,
-    "timeWeek": 244,
-    "timeMonth": 224,
+    "timeDay": 276,
+    "timeWeek": 238,
+    "timeMonth": 223,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 25
+    }
   },
   {
     "name": "prLázarus",
