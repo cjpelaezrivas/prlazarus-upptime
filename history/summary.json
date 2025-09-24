@@ -6,14 +6,14 @@
     "slug": "cjpelaezrivas-github-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 203,
-    "timeWeek": 234,
-    "timeMonth": 226,
+    "timeDay": 200,
+    "timeWeek": 227,
+    "timeMonth": 225,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-09-22": 25
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 198,
-    "timeWeek": 180,
+    "timeDay": 223,
+    "timeWeek": 186,
     "timeMonth": 170,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2025-08-26": 27
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 131,
-    "timeWeek": 116,
-    "timeMonth": 124,
+    "timeDay": 98,
+    "timeWeek": 113,
+    "timeMonth": 119,
     "timeYear": 88,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 80,
-    "timeWeek": 84,
-    "timeMonth": 74,
+    "timeDay": 72,
+    "timeWeek": 79,
+    "timeMonth": 73,
     "timeYear": 56,
     "dailyMinutesDown": {}
   }
