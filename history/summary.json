@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cjpelaezrivas.dev.ico",
     "slug": "cjpelaezrivas-github-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 203,
     "timeDay": 260,
     "timeWeek": 202,
     "timeMonth": 217,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-11-20": 0,
+      "2025-11-20": 19,
       "2025-09-22": 25
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://prlazarus.es/",
     "icon": "https://icons.duckduckgo.com/ip3/prlazarus.es.ico",
     "slug": "pr-lazarus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 188,
     "timeYear": 172,
     "dailyMinutesDown": {
+      "2025-11-20": 0,
       "2025-08-26": 27
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://cjpelaezrivas.dev/ProjectBlip",
     "icon": "https://icons.duckduckgo.com/ip3/cjpelaezrivas.dev.ico",
     "slug": "project-blip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +57,18 @@
     "timeWeek": 97,
     "timeMonth": 103,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-20": 0
+    }
   },
   {
     "name": "Lighthouse",
     "url": "https://cjpelaezrivas.dev/Lighthouse/",
     "icon": "https://icons.duckduckgo.com/ip3/cjpelaezrivas.dev.ico",
     "slug": "lighthouse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +77,8 @@
     "timeWeek": 67,
     "timeMonth": 65,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-20": 0
+    }
   }
 ]
