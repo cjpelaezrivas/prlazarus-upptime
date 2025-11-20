@@ -4,9 +4,9 @@
     "url": "https://cjpelaezrivas.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/cjpelaezrivas.dev.ico",
     "slug": "cjpelaezrivas-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 217,
     "timeYear": 204,
     "dailyMinutesDown": {
+      "2025-11-20": 0,
       "2025-09-22": 25
     }
   },
